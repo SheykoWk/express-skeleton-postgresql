@@ -1,0 +1,25 @@
+{
+  "name": "express-skeleton-postgresql",
+  "version": "1.0.0",
+  "description": "A Skeleton for building production-ready REST API's using Node.js, Express, PostgreSQL and Sequelize",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheykoWk/express-skeleton-postgresql.git"
+  },
+  "keywords": [
+    "Eskeleton",
+    "Node",
+    "PostgreSQL",
+    "Sequelize"
+  ],
+  "author": "Sh3yk0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheykoWk/express-skeleton-postgresql/issues"
+  },
+  "homepage": "https://github.com/SheykoWk/express-skeleton-postgresql#readme"
+}
